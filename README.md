@@ -1,25 +1,20 @@
-# esx_dmvschool
-Realistic DMV school for ESX
+# PREVIEV
+
+https://i.imgur.com/MU9pjRp.png
+
+#Change photo
+In styles.css - background-image: url("https://i.imgur.com/vO3ElXR.png");
 
 ## Requirements
 - [esx_license](https://github.com/ESX-Org/esx_license)
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_dmvschool
-```
-
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_dmvschool [esx]/esx_dmvschool
+git clone https://github.com/PanScoobiik/esx_dmvschool
 ```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_dmvschool/archive/master.zip
-- Put it in the `[esx]` directory
 
 ## Installation
 - Import `esx_dmvschool.sql` in your database

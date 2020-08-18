@@ -2,8 +2,8 @@
 
 https://i.imgur.com/MU9pjRp.png
 
-#Change photo
-In styles.css - background-image: url("https://i.imgur.com/vO3ElXR.png");
+## CHANGE PHOTO
+- In styles.css - background-image: url("https://i.imgur.com/vO3ElXR.png");
 
 ## Requirements
 - [esx_license](https://github.com/ESX-Org/esx_license)

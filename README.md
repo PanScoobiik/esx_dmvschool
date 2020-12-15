@@ -1,4 +1,4 @@
-# PREVIEV
+# PREVIEW
 
 https://i.imgur.com/MU9pjRp.png
 
